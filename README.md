@@ -2,7 +2,7 @@
 
 Méthodologie EBIOS RM au format excel.
 
-# Details (FR)
+# Details
 
 - Pyramide management risque (approche de management du risque numérique adopté par la méthode EBIOS RM. 
 - Ateliers (Description des 5 ateliers)

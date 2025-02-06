@@ -1,6 +1,6 @@
 # EBIOS-RM
 
-EBIOS RM methodology in Excel format (FR).
+Méthodologie EBIOS RM au format excel.
 
 # Details (FR)
 
